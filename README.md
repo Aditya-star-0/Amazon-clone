@@ -15,16 +15,9 @@ It replicates the look and feel of Amazon’s homepage, including the navigation
 - CSS3
 - [Font Awesome](https://fontawesome.com/) for icons
 
-
----
-
-## ✅ ALTERNATIVE (Bullet Style – 100% Safe)
-
-If code block still breaks, use this:
-
-```md
 ## 📂 Project Structure
 
+```md
 - amazon-clone/
   - index.html
   - style.css
@@ -39,7 +32,7 @@ If code block still breaks, use this:
     - box6.jpg
     - box7.jpg
     - box8.jpg
-
+```
 ## 📸 Preview
 (Add a screenshot of your page here once hosted) 
 
@@ -56,5 +49,6 @@ It demonstrates skills in layout design, styling, and structuring a webpage simi
 Make the website fully responsive
 Add JavaScript interactions
 Improve mobile UI
+
 
 
