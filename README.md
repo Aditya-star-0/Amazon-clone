@@ -38,7 +38,9 @@ It replicates the look and feel of Amazon’s homepage, including the navigation
 
 ## ▶️ How to Run
 Clone the repository
+```md
 git clone https://github.com/Aditya-star-0/amazon-clone.git
+```
 Open index.html in your browser
 
 ## 📌 Purpose
@@ -49,6 +51,7 @@ It demonstrates skills in layout design, styling, and structuring a webpage simi
 Make the website fully responsive
 Add JavaScript interactions
 Improve mobile UI
+
 
 
 
