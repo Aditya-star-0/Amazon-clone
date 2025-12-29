@@ -34,7 +34,8 @@ It replicates the look and feel of Amazon’s homepage, including the navigation
     - box8.jpg
 ```
 ## 📸 Preview
-(Add a screenshot of your page here once hosted) 
+<img width="1918" height="916" alt="image" src="https://github.com/user-attachments/assets/e3ddee3f-dc21-4006-815c-cc9d21a9d1d7" />
+(screenshot of page) 
 
 ## 🌐 Live Demo
 👉 https://Aditya-star-0.github.io/Amazon-clone/
@@ -54,3 +55,4 @@ It demonstrates skills in layout design, styling, and structuring a webpage simi
 Make the website fully responsive
 Add JavaScript interactions
 Improve mobile UI
+
