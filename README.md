@@ -19,12 +19,9 @@ It replicates the look and feel of Amazon’s homepage, including the navigation
 
 
 ## 📸 Preview
-(Add a screenshot of your page here once hosted)
-
-## 🌐 Live Demo
-You can view the project live here:  
-👉 [GitHub Pages Link](https://Aditya-star-0.github.io/amazon-clone)  
+(Add a screenshot of your page here once hosted)  
 
 ## 📌 Purpose
 This project was created for **practice and learning front-end development**.  
 It demonstrates skills in layout design, styling, and structuring a webpage similar to a real-world e-commerce site.
+
